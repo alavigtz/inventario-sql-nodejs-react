@@ -1,0 +1,16 @@
+{
+  "name": "empresa-x-inventario",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alejandro Avila",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mssql": "^6.3.1",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
